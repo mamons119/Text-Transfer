@@ -11,7 +11,6 @@ https://textransfer.netlify.app/
 
 ---
 
----
 
 ## ✨ Cos'è Text-Transfer?
 
