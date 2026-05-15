@@ -22,11 +22,7 @@ Perfetto per:
 - Trasferire informazioni a qualcuno senza digitare
 - Condividere link tra pc e smartphone senza login e senza app esterne
 
----<img width="1532" height="846" alt="TextTransfer" src="https://github.com/user-attachments/assets/828f6714-7e31-4b92-8c88-42290ae30cc3" />
+<img width="1532" height="846" alt="TextTransfer" src="https://github.com/user-attachments/assets/828f6714-7e31-4b92-8c88-42290ae30cc3" />
 
 
 ---
-
-<div align="center">
-  <sub>Fatto con ❤️ · Ultima versione: 15-05-2026</sub>
-</div>
